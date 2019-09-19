@@ -1,0 +1,1 @@
+The "solution.clp" script needs CLIPS environment to be executed.
